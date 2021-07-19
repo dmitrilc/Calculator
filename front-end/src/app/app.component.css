@@ -1,0 +1,11 @@
+.mat-button, .mat-fab, .mat-flat-button, .mat-icon-button, .mat-mini-fab, .mat-raised-button, .mat-stroked-button {
+    font-size: 20px;
+}
+
+#calc-display {
+    background: rgb(186, 253, 255);
+    cursor: text;
+    overflow: auto;
+    white-space: nowrap;
+    font-size: 30px;
+  }
